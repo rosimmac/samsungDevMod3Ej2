@@ -1,0 +1,190 @@
+{
+    "supermercados" : [
+        {
+            "nombre" : "mercadona",
+            "direccion" : "calle larios, 25",
+            "geolocalizacion": "37.1680423,-3.5914038",
+            "ofertas": [
+                {
+                    "nombre" : "mango",
+                    "vigencia": "2023-04-30T21:00:00.947Z",
+                    "unidadesMedida": " 500 gramos",
+                    "unidades": 2,
+                    "precio": 1.5,
+                    "adquirido": true
+
+                },
+                {
+                    "nombre" : "orejones",
+                    "vigencia": "2023-05-02T21:00:00.947Z",
+                    "unidadesMedida": " 200 gramos",
+                    "unidades": 1,
+                    "precio": 1,
+                    "adquirido": true
+
+                },
+                {
+                    "nombre" : "frambuesa",
+                    "vigencia": "2023-05-15T21:00:00.947Z",
+                    "unidadesMedida": " 200 gramos",
+                    "unidades": 1,
+                    "precio": 2.5,
+                    "adquirido": false
+
+                }
+                
+            ],
+            "productosSinOferta":[
+                {
+                    "nombre" : "leche",
+                    "unidadesMedida": "1 litro",
+                    "unidades": 2,
+                    "precio": 1.2,
+                    "adquirido": true
+
+                },
+                {
+                    "nombre" : "pollo",
+                    "unidadesMedida": "500 gramos",
+                    "unidades": 1,
+                    "precio": 7,
+                    "adquirido": false
+
+                },
+                {
+                    "nombre" : "pan",
+                    "unidadesMedida": "1 barra",
+                    "unidades": 1,
+                    "precio": 1,
+                    "adquirido": false
+
+                }
+                
+            ]
+        },
+        {
+            "nombre" : "consum",
+            "direccion" : "calle luz, 2",
+            "geolocalizacion": "27.1680423,-3.5914038",
+            "ofertas": [
+                {
+                    "nombre" : "pera",
+                    "vigencia": "2023-04-30T21:00:00.947Z",
+                    "unidadesMedida": " 300 gramos",
+                    "unidades": 2,
+                    "precio": 0.75,
+                    "adquirido": false
+
+                },
+                {
+                    "nombre" : "banana",
+                    "vigencia": "2023-04-30T21:00:00.947Z",
+                    "unidadesMedida": " 100 gramos",
+                    "unidades": 1,
+                    "precio": 0.5,
+                    "adquirido": true
+
+                },
+                {
+                    "nombre" : "queso edam",
+                    "vigencia": "2023-05-15T21:00:00.947Z",
+                    "unidadesMedida": " 200 gramos",
+                    "unidades": 1,
+                    "precio": 1.5,
+                    "adquirido": true
+
+                }
+                
+            ],
+            "productosSinOferta":[
+                {
+                    "nombre" : "aceite",
+                    "unidadesMedida": "1 litro",
+                    "unidades": 2,
+                    "precio": 3.2,
+                    "adquirido": true
+
+                },
+                {
+                    "nombre" : "ternera",
+                    "unidadesMedida": "500 gramos",
+                    "unidades": 1,
+                    "precio": 9,
+                    "adquirido": false
+
+                },
+                {
+                    "nombre" : "chorizo",
+                    "unidadesMedida": "300 gramos",
+                    "unidades": 1,
+                    "precio": 5,
+                    "adquirido": false
+
+                }
+                
+            ]
+        },
+        {
+            "nombre" : "lidl",
+            "direccion" : "calle paz, 3",
+            "geolocalizacion": "34.1680423,-3.5914038",
+            "ofertas": [
+                {
+                    "nombre" : "nutella",
+                    "vigencia": "2023-04-30T21:00:00.947Z",
+                    "unidadesMedida": " 500 gramos",
+                    "unidades": 1,
+                    "precio": 1.5,
+                    "adquirido": true
+
+                },
+                {
+                    "nombre" : "caballa",
+                    "vigencia": "2023-04-29T21:00:00.947Z",
+                    "unidadesMedida": " 200 gramos",
+                    "unidades": 1,
+                    "precio": 1,
+                    "adquirido": false
+
+                },
+                {
+                    "nombre" : "anacardos",
+                    "vigencia": "2023-05-15T21:00:00.947Z",
+                    "unidadesMedida": " 200 gramos",
+                    "unidades": 1,
+                    "precio": 1.2,
+                    "adquirido": false
+
+                }
+                
+            ],
+            "productosSinOferta":[
+                {
+                    "nombre" : "leche soja",
+                    "unidadesMedida": "1 litro",
+                    "unidades": 2,
+                    "precio": 2.2,
+                    "adquirido": true
+
+                },
+                {
+                    "nombre" : "pavo",
+                    "unidadesMedida": "500 gramos",
+                    "unidades": 1,
+                    "precio": 7,
+                    "adquirido": false
+
+                },
+                {
+                    "nombre" : "spaghetti",
+                    "unidadesMedida": "200 gramos",
+                    "unidades": 1,
+                    "precio": 1.75,
+                    "adquirido": false
+
+                }
+                
+            ]
+        }
+    ]
+}

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <supermercados>
+    <nombre>mercadona</nombre>
+    <direccion>calle larios, 25</direccion>
+    <geolocalizacion>37.1680423,-3.5914038</geolocalizacion>
+    <ofertas>
+      <nombre>mango</nombre>
+      <vigencia>2023-04-30T21:00:00.947Z</vigencia>
+      <unidadesMedida> 500 gramos</unidadesMedida>
+      <unidades>2</unidades>
+      <precio>1.5</precio>
+      <adquirido>true</adquirido>
+    </ofertas>
+    <ofertas>
+      <nombre>orejones</nombre>
+      <vigencia>2023-05-02T21:00:00.947Z</vigencia>
+      <unidadesMedida> 200 gramos</unidadesMedida>
+      <unidades>1</unidades>
+      <precio>1</precio>
+      <adquirido>true</adquirido>
+    </ofertas>
+    <ofertas>
+      <nombre>frambuesa</nombre>
+      <vigencia>2023-05-15T21:00:00.947Z</vigencia>
+      <unidadesMedida> 200 gramos</unidadesMedida>
+      <unidades>1</unidades>
+      <precio>2.5</precio>
+      <adquirido>false</adquirido>
+    </ofertas>
+    <productosSinOferta>
+      <nombre>leche</nombre>
+      <unidadesMedida>1 litro</unidadesMedida>
+      <unidades>2</unidades>
+      <precio>1.2</precio>
+      <adquirido>true</adquirido>
+    </productosSinOferta>
+    <productosSinOferta>
+      <nombre>pollo</nombre>
+      <unidadesMedida>500 gramos</unidadesMedida>
+      <unidades>1</unidades>
+      <precio>7</precio>
+      <adquirido>false</adquirido>
+    </productosSinOferta>
+    <productosSinOferta>
+      <nombre>pan</nombre>
+      <unidadesMedida>1 barra</unidadesMedida>
+      <unidades>1</unidades>
+      <precio>1</precio>
+      <adquirido>false</adquirido>
+    </productosSinOferta>
+  </supermercados>
+  <supermercados>
+    <nombre>consum</nombre>
+    <direccion>calle luz, 2</direccion>
+    <geolocalizacion>27.1680423,-3.5914038</geolocalizacion>
+    <ofertas>
+      <nombre>pera</nombre>
+      <vigencia>2023-04-30T21:00:00.947Z</vigencia>
+      <unidadesMedida> 300 gramos</unidadesMedida>
+      <unidades>2</unidades>
+      <precio>0.75</precio>
+      <adquirido>false</adquirido>
+    </ofertas>
+    <ofertas>
+      <nombre>banana</nombre>
+      <vigencia>2023-04-30T21:00:00.947Z</vigencia>
+      <unidadesMedida> 100 gramos</unidadesMedida>
+      <unidades>1</unidades>
+      <precio>0.5</precio>
+      <adquirido>true</adquirido>
+    </ofertas>
+    <ofertas>
+      <nombre>queso edam</nombre>
+      <vigencia>2023-05-15T21:00:00.947Z</vigencia>
+      <unidadesMedida> 200 gramos</unidadesMedida>
+      <unidades>1</unidades>
+      <precio>1.5</precio>
+      <adquirido>true</adquirido>
+    </ofertas>
+    <productosSinOferta>
+      <nombre>aceite</nombre>
+      <unidadesMedida>1 litro</unidadesMedida>
+      <unidades>2</unidades>
+      <precio>3.2</precio>
+      <adquirido>true</adquirido>
+    </productosSinOferta>
+    <productosSinOferta>
+      <nombre>ternera</nombre>
+      <unidadesMedida>500 gramos</unidadesMedida>
+      <unidades>1</unidades>
+      <precio>9</precio>
+      <adquirido>false</adquirido>
+    </productosSinOferta>
+    <productosSinOferta>
+      <nombre>chorizo</nombre>
+      <unidadesMedida>300 gramos</unidadesMedida>
+      <unidades>1</unidades>
+      <precio>5</precio>
+      <adquirido>false</adquirido>
+    </productosSinOferta>
+  </supermercados>
+  <supermercados>
+    <nombre>lidl</nombre>
+    <direccion>calle paz, 3</direccion>
+    <geolocalizacion>34.1680423,-3.5914038</geolocalizacion>
+    <ofertas>
+      <nombre>nutella</nombre>
+      <vigencia>2023-04-30T21:00:00.947Z</vigencia>
+      <unidadesMedida> 500 gramos</unidadesMedida>
+      <unidades>1</unidades>
+      <precio>1.5</precio>
+      <adquirido>true</adquirido>
+    </ofertas>
+    <ofertas>
+      <nombre>caballa</nombre>
+      <vigencia>2023-04-29T21:00:00.947Z</vigencia>
+      <unidadesMedida> 200 gramos</unidadesMedida>
+      <unidades>1</unidades>
+      <precio>1</precio>
+      <adquirido>false</adquirido>
+    </ofertas>
+    <ofertas>
+      <nombre>anacardos</nombre>
+      <vigencia>2023-05-15T21:00:00.947Z</vigencia>
+      <unidadesMedida> 200 gramos</unidadesMedida>
+      <unidades>1</unidades>
+      <precio>1.2</precio>
+      <adquirido>false</adquirido>
+    </ofertas>
+    <productosSinOferta>
+      <nombre>leche soja</nombre>
+      <unidadesMedida>1 litro</unidadesMedida>
+      <unidades>2</unidades>
+      <precio>2.2</precio>
+      <adquirido>true</adquirido>
+    </productosSinOferta>
+    <productosSinOferta>
+      <nombre>pavo</nombre>
+      <unidadesMedida>500 gramos</unidadesMedida>
+      <unidades>1</unidades>
+      <precio>7</precio>
+      <adquirido>false</adquirido>
+    </productosSinOferta>
+    <productosSinOferta>
+      <nombre>spaghetti</nombre>
+      <unidadesMedida>200 gramos</unidadesMedida>
+      <unidades>1</unidades>
+      <precio>1.75</precio>
+      <adquirido>false</adquirido>
+    </productosSinOferta>
+  </supermercados>
+</root>
